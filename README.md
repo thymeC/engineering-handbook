@@ -17,6 +17,7 @@ This handbook serves as the single source of truth for:
 
 ```text
 .
+├── ai/                # AI/ML technologies and practices
 ├── architecture/       # Design patterns and ADRs
 ├── backend/           # Server-side technologies
 ├── frontend/          # Client-side technologies
