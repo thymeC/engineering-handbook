@@ -1,7 +1,5 @@
 # Workflow & Processes
 
-Content to be added.
-
 ## Overview
 This section will contain workflow and process documentation including:
 - Development workflows

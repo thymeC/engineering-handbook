@@ -1,7 +1,5 @@
 # Databases
 
-Content to be added.
-
 ## Overview
 This section will contain database-related documentation including:
 - Database design principles
