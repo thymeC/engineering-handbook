@@ -1,9 +1,19 @@
-## 1. **Arrange-Act-Assert (AAA) 模式**（最主流）
+## 1. **Arrange-Act-Assert (AAA) Pattern**（Most popular）
+
+The Arrange-Act-Assert pattern, also known as the AAA or 3A pattern, is a widely recognized approach to structuring tests. It was originally proposed by Bill Wake in 2001 and then mentioned in Kent Beck’s influential book “Test Driven Development: By Example” in 2002.
+
+The AAA pattern promotes clarity by recommending that tests be structured into three distinct phases:
+
+- Arrange everything necessary to perform the test.
+- Act on the target code to be tested by executing it.
+- Assert the expected outcomes.
+
+![](unit-test-3A-pattern.png)
 - **Arrange** (准备): 设置测试的初始状态（初始化对象、模拟依赖、准备输入数据等）。
 - **Act** (执行): 触发被测代码的执行（调用函数、方法或触发事件）。
 - **Assert** (断言): 验证结果是否符合预期（比较输出、状态变化等）。
 
-**示例** (伪代码):
+**Example** (伪代码):
 ```python
 def test_add_numbers():
     # Arrange
@@ -16,7 +26,7 @@ def test_add_numbers():
     # Assert
     assert result == 8
 ```
-
+[Read more](https://semaphoreci.com/blog/aaa-pattern-test-automation#:~:text=The%20AAA%20pattern%20promotes%20clarity%20by%20recommending%20that,tested%20by%20executing%20it.%20Assert%20the%20expected%20outcomes.)
 ---
 
 ### 2. **其他常见变体**

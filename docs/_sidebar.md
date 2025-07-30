@@ -1,23 +1,46 @@
 - [Home](/)
 - AI
-  - [Prompt Engineering](ai/prompt-engineering/how-to-write-good-prompts.md)
+  - [Overview](ai/overview.md)
   - [Prompt Evaluation](ai/prompt-engineering/prompt-evaluation.md)
 - Architecture
-  - [Architecture](architecture/architecture.md)
+  - [Overview](architecture/overview.md)
 - Backend
+  - [Overview](backend/overview.md)
   - [Backend](backend/backend.md)
+- Frontend
+  - [Overview](frontend/overview.md)
+- Programming Languages
+  - [Overview](programming-languages/overview.md)
+  - Python
+    - [Exception Handling](programming-languages/python/exception.md)
+    - [Logging](programming-languages/python/log.md)
+    - [Decorators](programming-languages/python/python-decorators.md)
 - DevOps
-  - [Docker](devops/docker/docker.md)
-  - [Dockerfile Q&A](devops/docker/dockerfile-qna.md)
+  - [Overview](devops/overview.md)
+  - Docker
+    - [Docker Best Practices](devops/docker/docker.md)
+    - [Dockerfile Q&A](devops/docker/dockerfile-qna.md)
   - [Kubernetes](devops/kubernetes/kubernetes.md)
   - [OpenShift](devops/openshift/openshift.md)
-- Frontend
-  - [Frontend](frontend/frontend.md)
 - Databases
-  - [Databases](databases/databases.md)
+  - [Overview](databases/overview.md)
 - Testing
+  - [Overview](testing/overview.md)
   - [Test Pattern](testing/test-pattern.md)
+  - Pytest
+    - [Mock Testing](testing/pytest/mock.md)
+    - [MongoMock](testing/pytest/mongomock.md)
 - Security
-  - [Security](security/security.md)
+  - [Overview](security/overview.md)
 - Workflow
-  - [Workflow](workflow/workflow.md)
+  - [Overview](workflow/overview.md)
+- Gem
+  - [Gitignore](gem/gitignore.md)
+- Todo
+  - [FastAPI Hide Health Check Log](todo/fastapi-hide-health-check-log.md)
+  - [GraphQL](todo/graphql.md)
+  - [How to Write Good Prompts](todo/how-to-write-good-prompts.md)
+  - [Mockito](todo/mockito.md)
+  - [MongoDB](todo/mongodb.md)
+  - [Regex](todo/regex.md)
+  - [Web Icon Favicon](todo/web-icon-favicon.md)
