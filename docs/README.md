@@ -1,10 +1,10 @@
 # Engineering Handbook 📚
 
-**The definitive guide on technology stack, best practices, and engineering culture**
+**The definitive guide on technology stack, best practices, and engineering culture for Thyme**
 
 ---
 
-## 🌟 Purpose
+### 🌟 Purpose
 
 This handbook serves as the single source of truth for:
 - **Technical standards** across our projects
@@ -13,7 +13,7 @@ This handbook serves as the single source of truth for:
 
 ---
 
-## 🗂️ Structure
+### 🗂️ Structure
 
 ```text
 .
@@ -31,6 +31,6 @@ This handbook serves as the single source of truth for:
 └── LICENSE                 # Project license
 ```
 
-## 🚀 Deployment
+### 🚀 Deployment
 
 This handbook is deployed via GitHub Pages from the `/docs` folder. Visit the live site at: [your-github-pages-url]
