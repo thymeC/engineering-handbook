@@ -19,11 +19,13 @@
   - [Overview](devops/overview.md)
   - Docker
     - [Docker Best Practices](devops/docker/docker.md)
+    - [Docker Practice](devops/docker/docker-practice.md)
     - [Dockerfile Q&A](devops/docker/dockerfile-qna.md)
   - [Kubernetes](devops/kubernetes/kubernetes.md)
   - [OpenShift](devops/openshift/openshift.md)
 - Databases
   - [Overview](databases/overview.md)
+  - [SQL Cheatsheet](databases/sql-cheatsheet.md)
 - Testing
   - [Overview](testing/overview.md)
   - [Test Pattern](testing/test-pattern.md)
@@ -34,6 +36,15 @@
   - [Overview](security/overview.md)
 - Workflow
   - [Overview](workflow/overview.md)
+- Business
+  - [高效能人士的七个习惯](business/高效能人士的七个习惯.md)
+  - [Strategic Thinking vs System Thinking](business/strategic-thinking-vs-system-thinking.md)
+- Network
+  - [Network Concepts](network/network-concepts.md)
+  - [IP Address and Domain](network/ip-address-and-domain.md)
+  - [Status Codes](network/状态码.md)
+- Tools
+  - [Have I Been Pwned](tools/have-I-been-pwned.md)
 - Gem
   - [Gitignore](gem/gitignore.md)
 - Todo

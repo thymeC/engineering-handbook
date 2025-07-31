@@ -1,0 +1,1 @@
+![alt text](strategic-thinking-vs-system-thinking.png)
